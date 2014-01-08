@@ -1,9 +1,24 @@
 body {
 	background:navy;
 	font-family: arial;
-
+	color: orange;
 }
 
 img{
 	width: 300px;
+}
+
+#leftcol {
+	background: white;
+}
+
+#rightcol {
+	background: white;
+}
+
+.round {border-radius: 10px;
+}
+
+.shadow {
+	box-shadow: 10px 10px 10px black;
 }
